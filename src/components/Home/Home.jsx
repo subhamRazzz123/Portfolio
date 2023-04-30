@@ -2,6 +2,12 @@ import React from "react";
 import Me from "../../assets/hello.png";
 
 const Home = () => {
+  /* 
+  Add Image
+  Change name
+  Add position ( role)
+  Bio
+  */
   return (
     <div className="home" id="home">
       <div className="left">
@@ -34,11 +40,6 @@ const Home = () => {
             }
           >
             <i className="fa-brands fa-linkedin fa-2x fa-beat"></i>
-          </span>
-          <span
-            onClick={() => window.open("https://roadsidecoder.hashnode.dev/")}
-          >
-            <i className="fa-brands fa-hashnode fa-2x fa-beat"></i>
           </span>
           <span
             onClick={() => window.open("https://twitter.com/pujarini_codeit")}

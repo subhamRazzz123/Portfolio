@@ -29,10 +29,6 @@ const Navbar = () => {
       name: "Projects",
       link: "#projects",
     },
-    {
-      name: "Blog",
-      link: "#blogs",
-    },
   ];
 
   const [anchorElNav, setAnchorElNav] = React.useState(null);
