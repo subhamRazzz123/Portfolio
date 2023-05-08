@@ -1,5 +1,5 @@
 import React from "react";
-import Me from "../../assets/hello.png";
+import Me from "../../assets/use_now.jpeg";
 
 const Home = () => {
   /* 
@@ -17,15 +17,15 @@ const Home = () => {
       </div>
       <div className="right">
         <div className="container">
-          <h1>PUJARINI JENA</h1>
+          <h1>SUBHAM RAJ</h1>
           <span>FRONTEND DEVELOPER</span>
         </div>
         <div className="about-text">
-          Pujarini Jena is a Software Developer working at an Unicorn Startup.
-          She has an experience of 2+ years in Frontend development. She has
-          worked on React , JavaScript specifically. In her free time she likes
-          to host Twitter spaces related to Developer stuff. Apart from that she
-          is also a Technical Blogger.
+          Subham Raj is a Software Developer working at an Unicorn Startup. She
+          has an experience of 2+ years in Frontend development. He has worked
+          on React , JavaScript specifically. In her free time she likes to host
+          Twitter spaces related to Developer stuff. Apart from that she is also
+          a Technical Blogger.
         </div>
         <div className="roles">
           <span onClick={() => window.open("https://github.com/Pujarini")}>
